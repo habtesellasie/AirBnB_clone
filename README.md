@@ -1,2 +1,2 @@
-## Airbnb clone
-Alx project
+## Alx Project
+# Airbnb clone
